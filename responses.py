@@ -3,7 +3,7 @@ def get_response(user_input: str) -> str:
    
    if lowered == 'ex':
        return 'ex'
-   elif 'hisui' in lowered:
+   elif 'ex' in lowered:
        return 'ex'
    elif 'ex' in lowered:
        return 'ex'
